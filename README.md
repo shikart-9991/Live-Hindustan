@@ -1,6 +1,6 @@
 ## Screnshot of the Project - 
 
-<img width="1883" height="845" alt="image" src="https://github.com/user-attachments/assets/f9a7a68a-5519-4c7c-808d-7782531488f7" />
+<img width="1883" height="845" alt="image" src="(https://github.com/user-attachments/assets/355b225d-487c-45ce-9ffa-66a622873425)" />
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
